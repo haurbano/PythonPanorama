@@ -34,6 +34,9 @@ You need can show the generated images but your ubuntu system on windows don't h
 
 [Xming] (https://sourceforge.net/projects/xming/files/Xming/)
 
+When Xming is already installed, run the next command in your shell of Ubuntu.
+
+`export DISPLAY=:0`
 
 This is a little explanation, I hope this helps.
 
