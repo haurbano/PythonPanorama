@@ -18,10 +18,12 @@ The next instructions are thinking to run this python script in Ubuntu. But if y
 
 ### Steps
 run: 
-1. python stitch.py --first path/to/img1.png --second  path/to/img2.png
+
+`python stitch.py --first path/to/img1.png --second  path/to/img2.png`
 
 example:
-1. python stitch.py --first images/bryce_left_01.png --second images/bryce_right_01.png
+
+`python stitch.py --first images/bryce_left_01.png --second images/bryce_right_01.png`
 
 ## To Run on Windows:
 If you don't have a Ubuntu System you can install a Ubuntu machine on your Windows machine with the new Windows feature "Ubuntu on Windows", basically this is a Ubuntu 14 in your Windows but without any extra tool to install it.
